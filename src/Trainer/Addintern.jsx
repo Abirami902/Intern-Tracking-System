@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Button, Table, InputGroup, FormControl, Modal, Form } from 'react-bootstrap';
-import { FaSearch } from 'react-icons/fa';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 
