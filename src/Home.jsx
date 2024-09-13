@@ -136,20 +136,6 @@ const Home = () => {
   </div>
 </div>
 
-<div class="mt-5 card mb-3 ms-5" style={{width: '260px' ,height: '150px'}}>
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="anaga.jpg" class="mt-2 img-fluid rounded-circle h-75 w-125" alt="..."/>
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title fw-bold fS-3 ">Anagha AP</h5>
-        <p class="card-text fS-6">Internship cordinator</p>
-      </div>
-    </div>
-  </div>
-</div>
-
 
 <div class="mt-5 card mb-3 ms-5" style={{width: '260px' ,height: '150px'}}>
   <div class="row g-0">
